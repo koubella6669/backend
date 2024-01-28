@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://yesilyurtgurkan:Gurkan.1993@cluster0.877l9nn.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "PriceBoxFxCrmDenemeleri"
+}
